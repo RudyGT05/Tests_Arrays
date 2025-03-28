@@ -11,7 +11,7 @@ class TestEjerciciosLinkedList {
   
     @Test
     void testEliminarDuplicados() {
-        LinkedList<Integer> lista = new LinkedList<>();
+        LinkedList<Integer> lista = new  LinkedList<>();
         lista.add(1);
         lista.add(2);
         lista.add(3);

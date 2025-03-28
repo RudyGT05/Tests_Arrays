@@ -1,0 +1,1 @@
+package umg.edu.gt.estructuradedatos2025.lombokprueba;
